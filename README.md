@@ -4,7 +4,7 @@ Album:   Vertical
 Usage:   [Promo Kit]
 ```
 
-[LIVE SITE](https://matthew-via-music.com/)
+[LIVE SITE](https://mvmpromokit.github.io/)
 
 ![PREVIEW](/preview.png)
 
