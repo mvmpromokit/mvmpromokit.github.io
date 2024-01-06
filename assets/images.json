@@ -1,0 +1,104 @@
+[
+  {
+  "imgUrl": "assets/black-stamp-on-white-large.jpg",
+  "trackNumber": "",
+  "trackName": "",
+  "linkUrl": ""
+  },
+  {
+  "imgUrl": "assets/vertical.jpg",
+  "trackNumber": 1,
+  "trackName": "Vertical",
+  "linkUrl": "https://open.spotify.com/track/2dHkts5i2rVKn8KkZvKVYA?si=2f0908a7e2724ec6"
+  },
+  {
+  "imgUrl": "assets/tracklist.jpg",
+  "trackNumber": 2,
+  "trackName": "Fly Italia",
+  "linkUrl": "https://open.spotify.com/track/70D53LVnjzvFvgRyvbUW6g?si=7bc8de15f5d64875"
+  },
+  {
+  "imgUrl": "assets/vinyl-sleeve.jpg",
+  "trackNumber": 3,
+  "trackName": "Dublin",
+  "linkUrl": "https://open.spotify.com/track/4kP2UxZPc2Tno4nLJgIgoS?si=d25439dc964e43f7"
+  },
+  {
+  "imgUrl": "assets/whitelabel.jpg",
+  "trackNumber": 4,
+  "trackName": "Smiling",
+  "linkUrl": "https://open.spotify.com/track/2Wp25NkQu50Bks4ImZtHNl?si=539edc2bbc54413b"
+  },
+  {
+  "imgUrl": "assets/mvm-sideways.jpg",
+  "trackNumber": 5,
+  "trackName": "Liberate",
+  "linkUrl": "https://open.spotify.com/track/6RLWTbhfNyeExBPXu5T6C4?si=6cbfd408bbbd4e77"
+  },
+  {
+  "imgUrl": "assets/vertical-pattern-out-now-stamps.jpg",
+  "trackNumber": 6,
+  "trackName": "Synthwaves",
+  "linkUrl": "https://open.spotify.com/track/5bjAFPktIdaA1BnmtZmtRQ?si=1758231dab8c43ac"
+  },
+  {
+  "imgUrl": "assets/vertical-title-on-black.jpg",
+  "trackNumber": 7,
+  "trackName": "Hoops",
+  "linkUrl": "https://open.spotify.com/track/1vzLlKpn6OGDe7aDeNUtZq?si=c10e0c4f8ba7472f"
+  },
+  {
+  "imgUrl": "assets/red-with-black-triangle.jpg",
+  "trackNumber": 8,
+  "trackName": "Caucasian",
+  "linkUrl": "https://open.spotify.com/track/3Bp3zbFKZBnCi8cHK9JwFH?si=69f27d08cfc24aad"
+  },
+  {
+  "imgUrl": "assets/white-stamp-on-black.jpg",
+  "trackNumber": 9,
+  "linkUrl": "https://open.spotify.com/track/3QdIESLXJJXPS5VeQRA7ei?si=dfe3d35e2f3b4f73",
+  "trackName": "Blinky"
+  },
+  {
+  "imgUrl": "assets/hotpink.jpg",
+  "trackNumber": 10,
+  "trackName": "Vapor",
+  "linkUrl": "https://open.spotify.com/track/6N2VGqyjQvjTWlbDXDi5FA?si=746e7200cace46d8"
+  },
+  {
+  "imgUrl": "assets/new-album-out-now.jpg",
+  "trackNumber": "",
+  "trackName": "Album on Spotify",
+  "linkUrl": "https://open.spotify.com/album/4gaqMm6im8J4l8n7Sb2SJP"
+  },
+  {
+  "imgUrl": "assets/landscape.png",
+  "trackNumber": "",
+  "trackName": "Album Taster [Video]",
+  "linkUrl": "https://mvmaudio.olk1.com/vertical-album-taster.mp4"
+  },
+  {
+  "imgUrl": "assets/portrait.png",
+  "trackNumber": "",
+  "trackName": "Album Taster [Video / Portrait]",
+  "linkUrl": "https://mvmaudio.olk1.com/vertical-album-taster-portrait.mp4"
+  },
+  {
+  "imgUrl": "assets/mvm-stamp-circle-large.jpg",
+  "trackNumber": "",
+  "trackName": "Album Taster [Audio Only]",
+  "linkUrl": "https://mvmaudio.olk1.com/vertical-audio-album-taster.mp3"
+  },
+  {
+   "imgUrl": "assets/player.png",
+   "trackNumber": "",
+   "trackName": "Album Audio Player",
+   "linkUrl": "https://matthew-via-music-player.github.io/"
+   },
+  {
+   "imgUrl": "assets/discography.png",
+   "trackNumber": "",
+   "trackName": "Album Discography",
+   "linkUrl": "https://mvmdiscography.github.io/"
+   }
+]
